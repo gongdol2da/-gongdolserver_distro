@@ -1,0 +1,26 @@
+{
+  "$schema": "file:///D:/Coding/Projects/CustomLauncherLab/distro-file/gongdolserver_file/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "공돌서버",
+    "description": "gongdolserver Running Minecraft 1.20.1 (Forge v47.3.0)",
+    "icon": "https://github.com/gongdol2da/gongdolserver_file/raw/main/server-icon.png",
+    "address": "gongdol.메인.한국",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "47.3.0"
+  },
+  "untrackedFiles": [
+    {
+      "appliesTo": ["files"],
+      "patterns": ["servers.dat", "options.txt"]
+    }
+  ]
+}
