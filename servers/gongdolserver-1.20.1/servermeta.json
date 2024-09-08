@@ -3,7 +3,7 @@
   "meta": {
     "version": "1.0.0",
     "name": "공돌서버",
-    "description": "gongdolserver Running Minecraft 1.20.1 (Forge v47.3.0)",
+    "description": "gongdolserver Running Minecraft 1.20.1 (Fabric v0.16.5)",
     "icon": "https://github.com/gongdol2da/gongdolserver_file/raw/main/server-icon.png",
     "address": "gongdol.메인.한국",
     "discord": {
@@ -14,8 +14,8 @@
     "mainServer": true,
     "autoconnect": true
   },
-  "forge": {
-    "version": "47.3.0"
+  "fabric": {
+    "version": "0.16.5"
   },
   "untrackedFiles": [
     {

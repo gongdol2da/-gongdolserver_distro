@@ -1,7 +1,7 @@
 {
   "$schema": "file:///D:/Coding/Projects/CustomLauncherLab/distro-file/gongdolserver_file/schemas/DistroMetaSchema.schema.json",
   "meta": {
-    "rss": "<LINK TO RSS FEED>",
+    "rss": "https://github.com/gongdol2da/gongdolserver/tags.atom",
     "discord": {
       "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
