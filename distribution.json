@@ -136,16 +136,6 @@
           }
         },
         {
-          "id": "kr.shihyeon:imagicthud:1.6.0-snapshot+mc1.20.1-local@jar",
-          "name": "ImagictHud",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 301086,
-            "url": "https://raw.githubusercontent.com/gongdol2da/gongdolserver_file/main/servers/gongdolserver-1.20.1/fabricmods/required/imagicthud-1.6.0-snapshot+mc1.20.1-local.jar",
-            "MD5": "65ae9d0ed3ddff26f7626084ef4102a1"
-          }
-        },
-        {
           "id": "generated.fabricmod:iris:1.7.2+mc1.20.1@jar",
           "name": "Iris",
           "type": "FabricMod",
