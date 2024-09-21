@@ -136,13 +136,13 @@
           }
         },
         {
-          "id": "kr.shihyeon:imagicthud:1.2.4+mc1.20.1@jar",
+          "id": "kr.shihyeon:imagicthud:1.6.0-snapshot+mc1.20.1-local@jar",
           "name": "ImagictHud",
           "type": "FabricMod",
           "artifact": {
-            "size": 36984,
-            "url": "https://raw.githubusercontent.com/gongdol2da/gongdolserver_file/main/servers/gongdolserver-1.20.1/fabricmods/required/imagicthud-1.2.4+mc1.20.1.jar",
-            "MD5": "2163f6e58bc77b612158932ea5228e91"
+            "size": 301086,
+            "url": "https://raw.githubusercontent.com/gongdol2da/gongdolserver_file/main/servers/gongdolserver-1.20.1/fabricmods/required/imagicthud-1.6.0-snapshot+mc1.20.1-local.jar",
+            "MD5": "65ae9d0ed3ddff26f7626084ef4102a1"
           }
         },
         {
@@ -153,6 +153,16 @@
             "size": 2701293,
             "url": "https://raw.githubusercontent.com/gongdol2da/gongdolserver_file/main/servers/gongdolserver-1.20.1/fabricmods/required/iris-1.7.2+mc1.20.1.jar",
             "MD5": "fde2833d321c3f09020bd456094693d3"
+          }
+        },
+        {
+          "id": "snownee.jade:jade:11.11.0+fabric@jar",
+          "name": "Jade",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 570166,
+            "url": "https://raw.githubusercontent.com/gongdol2da/gongdolserver_file/main/servers/gongdolserver-1.20.1/fabricmods/required/Jade-1.20-fabric-11.11.0.jar",
+            "MD5": "04eb36a1b93c9e2761a8bcb2ee9f0a47"
           }
         },
         {
@@ -193,6 +203,16 @@
             "size": 721366,
             "url": "https://raw.githubusercontent.com/gongdol2da/gongdolserver_file/main/servers/gongdolserver-1.20.1/fabricmods/required/modmenu-7.2.2.jar",
             "MD5": "2629511a2d3b141d9f2a24dc9685637e"
+          }
+        },
+        {
+          "id": "vazkii.neat:neat:1.20.1-37-FABRIC@jar",
+          "name": "Neat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 233803,
+            "url": "https://raw.githubusercontent.com/gongdol2da/gongdolserver_file/main/servers/gongdolserver-1.20.1/fabricmods/required/Neat-1.20.1-37-FABRIC.jar",
+            "MD5": "40820395b15b89a9a8fb2f4bfe65ed06"
           }
         },
         {
